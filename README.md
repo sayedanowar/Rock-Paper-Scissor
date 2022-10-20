@@ -1,2 +1,2 @@
 # Rock-Paper-Scissor
-Simple Rock Paper Scissor Game
+This is a Simple `Rock ✊ Paper 🖐 Scissor ✌` Game.
